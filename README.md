@@ -1,4 +1,4 @@
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablotrrs&theme=radical&layout=compact)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablotrrs&theme=jolly&layout=compact)
 
 <!--
 **pablotrrs/pablotrrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
