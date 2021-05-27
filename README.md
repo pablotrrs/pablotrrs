@@ -1,5 +1,5 @@
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablotrrs&theme=jolly&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablotrrs&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablotrrs&show_icons=true&count_private=true&theme=jolly)
 
 
 <!--
