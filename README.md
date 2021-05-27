@@ -1,10 +1,10 @@
 <p align="center">
-  <h1 align="center" >Hello there ✌</h1>
+  <h2 align="center" >Hello there ✌</h2>
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=pablotrrs&show_icons=true&count_private=true&theme=jolly&">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablotrrs&theme=jolly&layout=compact">
+  <img width="350" height="300" src="https://github-readme-stats.vercel.app/api?username=pablotrrs&show_icons=true&count_private=true&theme=jolly&">
+  <img width="350" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablotrrs&theme=jolly&layout=compact">
 </p>
 
 <!--
