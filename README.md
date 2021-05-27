@@ -1,10 +1,11 @@
 <p align="center">
-### Hello there ✌
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pablotrrs&theme=jolly&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablotrrs&show_icons=true&count_private=true&theme=jolly&)
+  <h1 align="center" >Hello there ✌</h1>
 </p>
 
-<img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablotrrs&theme=jolly&layout=compact">
+<p align="center">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api?username=pablotrrs&show_icons=true&count_private=true&theme=jolly&">
+  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablotrrs&theme=jolly&layout=compact">
+</p>
 
 <!--
 **pablotrrs/pablotrrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
