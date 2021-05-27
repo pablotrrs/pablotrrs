@@ -4,6 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pablotrrs&show_icons=true&count_private=true&theme=jolly&)
 </p>
 
+<img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablotrrs&theme=jolly&layout=compact">
+
 <!--
 **pablotrrs/pablotrrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
